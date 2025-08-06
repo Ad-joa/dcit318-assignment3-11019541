@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\financeSystem\\financeSystem.csproj": {}
+    "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\FinanceSystem\\financeSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\financeSystem\\financeSystem.csproj": {
+    "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\FinanceSystem\\financeSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\financeSystem\\financeSystem.csproj",
+        "projectUniqueName": "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\FinanceSystem\\financeSystem.csproj",
         "projectName": "financeSystem",
-        "projectPath": "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\financeSystem\\financeSystem.csproj",
+        "projectPath": "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\FinanceSystem\\financeSystem.csproj",
         "packagesPath": "C:\\Users\\fortu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\financeSystem\\obj\\",
+        "outputPath": "C:\\Users\\fortu\\.vscode\\dcit318-assignment3-11019541\\FinanceSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fortu\\AppData\\Roaming\\NuGet\\NuGet.Config"

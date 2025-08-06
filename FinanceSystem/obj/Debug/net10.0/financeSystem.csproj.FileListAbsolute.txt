@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\bin\Debug\net10.0\financeSystem.exe
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\bin\Debug\net10.0\financeSystem.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\bin\Debug\net10.0\financeSystem.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\bin\Debug\net10.0\financeSystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\bin\Debug\net10.0\financeSystem.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\refint\financeSystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\financeSystem.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\FinanceSystem\obj\Debug\net10.0\ref\financeSystem.dll
