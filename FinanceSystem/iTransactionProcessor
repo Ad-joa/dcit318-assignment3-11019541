@@ -1,0 +1,29 @@
+public interface ITransactionProcessor
+{
+    void Process(Transaction transaction);
+}
+
+
+public class BankTransferProcessor : ITransactionProcessor
+{
+    public void Process(Transaction transaction)
+    {
+        Console.WriteLine($"Bank transfer of {transaction.Amount:C} in category '{transaction.Category}' processed.");
+    }
+}
+
+public class MobileMoneyProcessor : ITransactionProcessor
+{
+    public void Process(Transaction transaction)
+    {
+        Console.WriteLine($"Mobile money payment of {transaction.Amount:C} for '{transaction.Category}' completed.");
+    }
+}
+
+public class CryptoWalletProcessor : ITransactionProcessor
+{
+    public void Process(Transaction transaction)
+    {
+        Console.WriteLine($"Crypto transaction of {transaction.Amount:C} categorized as '{transaction.Category}' executed.");
+    }
+}
