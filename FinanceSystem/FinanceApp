@@ -1,3 +1,11 @@
+class Program
+{
+    static void Main()
+    {
+        var app = new FinanceApp();
+        app.Run();
+    }
+}
 public class FinanceApp
 {
     private List<Transaction> _transactions = new List<Transaction>();
