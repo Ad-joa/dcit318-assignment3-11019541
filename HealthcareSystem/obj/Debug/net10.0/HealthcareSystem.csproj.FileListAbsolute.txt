@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.exe
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\refint\HealthcareSystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\HealthcareSystem\obj\Debug\net10.0\ref\HealthcareSystem.dll
