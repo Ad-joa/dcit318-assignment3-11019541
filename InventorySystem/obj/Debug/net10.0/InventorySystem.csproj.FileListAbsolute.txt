@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\bin\Debug\net10.0\InventorySystem.exe
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\bin\Debug\net10.0\InventorySystem.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\bin\Debug\net10.0\InventorySystem.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\bin\Debug\net10.0\InventorySystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\bin\Debug\net10.0\InventorySystem.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\refint\InventorySystem.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\InventorySystem.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\InventorySystem\obj\Debug\net10.0\ref\InventorySystem.dll
