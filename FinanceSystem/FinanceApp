@@ -1,0 +1,29 @@
+public class FinanceApp
+{
+    private List<Transaction> _transactions = new List<Transaction>();
+
+    public void Run()
+    {
+        var savingsAccount = new SavingsAccount("ACC-2025-001", 1000);
+
+        var mobileProcessor = new MobileMoneyProcessor();
+        var bankProcessor = new BankTransferProcessor();
+        var cryptoProcessor = new CryptoWalletProcessor();
+
+        var transaction1 = mobileProcessor.ProcessTransaction();
+        var transaction2 = bankProcessor.ProcessTransaction();
+        var transaction3 = cryptoProcessor.ProcessTransaction();
+
+        savingsAccount.ApplyTransaction(transaction1);
+        savingsAccount.ApplyTransaction(transaction2);
+        savingsAccount.ApplyTransaction(transaction3);
+
+        _transactions.AddRange(new[] { transaction1, transaction2, transaction3 });
+
+        Console.WriteLine("\nTransaction Summary:");
+        foreach (var tx in _transactions)
+        {
+            Console.WriteLine($"{tx.Category}: {tx.Amount:C}");
+        }
+    }
+}

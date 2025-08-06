@@ -27,3 +27,25 @@ public class CryptoWalletProcessor : ITransactionProcessor
         Console.WriteLine($"Crypto transaction of {transaction.Amount:C} categorized as '{transaction.Category}' executed.");
     }
 }
+
+
+public interface ITransactionProcessor
+{
+    Transaction ProcessTransaction();
+}
+
+public class MobileMoneyProcessor : ITransactionProcessor
+{
+    public Transaction ProcessTransaction() => new Transaction(150, "Groceries");
+}
+
+public class BankTransferProcessor : ITransactionProcessor
+{
+    public Transaction ProcessTransaction() => new Transaction(300, "Utilities");
+}
+
+public class CryptoWalletProcessor : ITransactionProcessor
+{
+    public Transaction ProcessTransaction() => new Transaction(600, "Entertainment");
+}
+
