@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\bin\Debug\net10.0\WarehouseInventoryManagement.exe
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\bin\Debug\net10.0\WarehouseInventoryManagement.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\bin\Debug\net10.0\WarehouseInventoryManagement.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\bin\Debug\net10.0\WarehouseInventoryManagement.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\bin\Debug\net10.0\WarehouseInventoryManagement.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\refint\WarehouseInventoryManagement.dll
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.pdb
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\WarehouseInventoryManagement.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment3-11019541\WarehouseInventoryManagement\obj\Debug\net10.0\ref\WarehouseInventoryManagement.dll
