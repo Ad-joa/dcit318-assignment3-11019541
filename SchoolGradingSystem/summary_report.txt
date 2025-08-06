@@ -1,0 +1,5 @@
+Afua Serwaa (ID: 101): Score = 84, Grade = A
+Yaw Mensah (ID: 102): Score = 73, Grade = B
+Esi Dede (ID: 103): Score = 58, Grade = D
+Kofi Boateng (ID: 104): Score = 45, Grade = F
+Naa Ayele (ID: 105): Score = 91, Grade = A

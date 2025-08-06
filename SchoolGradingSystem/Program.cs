@@ -48,7 +48,7 @@ namespace SchoolGradingSystem
 
             using (StreamReader reader = new StreamReader(inputFilePath))
             {
-                string line;
+                string? line;
                 while ((line = reader.ReadLine()) != null)
                 {
                     string[] parts = line.Split(',');
@@ -97,6 +97,23 @@ namespace SchoolGradingSystem
 
             try
             {
+                // Automatically create students.txt with Ghanaian names if missing
+                if (!File.Exists(inputPath))
+                {
+                    Console.WriteLine("Input file not found. Creating sample students.txt...");
+
+                    using (StreamWriter writer = new StreamWriter(inputPath))
+                    {
+                        writer.WriteLine("101,Afua Serwaa,84");
+                        writer.WriteLine("102,Yaw Mensah,73");
+                        writer.WriteLine("103,Esi Dede,58");
+                        writer.WriteLine("104,Kofi Boateng,45");
+                        writer.WriteLine("105,Naa Ayele,91");
+                    }
+
+                    Console.WriteLine("Sample students.txt created successfully.");
+                }
+
                 List<Student> students = processor.ReadStudentsFromFile(inputPath);
                 processor.WriteReportToFile(students, outputPath);
 

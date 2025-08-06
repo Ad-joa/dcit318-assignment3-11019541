@@ -1,0 +1,5 @@
+101,Afua Serwaa,84
+102,Yaw Mensah,73
+103,Esi Dede,58
+104,Kofi Boateng,45
+105,Naa Ayele,91
